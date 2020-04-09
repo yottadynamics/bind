@@ -1,5 +1,7 @@
 # bind
 
+### Note: I'm using podman and it should be working with docker as well. 
+
 ## Make usage 
 
 ```
